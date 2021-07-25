@@ -1,0 +1,13 @@
+.bg-mine{
+    background-color: #f8e5e8;
+}
+.categories img{
+    width: 100px;
+}
+.submit-btn{
+    background-color: rgb(247, 99, 40);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
